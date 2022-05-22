@@ -1,0 +1,6 @@
+[submodule "api-movie-recommendation"]
+	path = api-movie-recommendation
+	url = https://github.com/jcardenaslie/api-movie-recommendation
+[submodule "butac_pwa"]
+	path = butac_pwa
+	url = https://github.com/jcardenaslie/butac_pwa
